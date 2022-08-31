@@ -1,4 +1,4 @@
-
+Renomeando qualquer arquivos na pasta do seu pc, o  código abaixo enumera os arquivos de forma sequêncial.
 
 import os
 pasta = str(input('Informe o caminho da pasta: ')+'\\')

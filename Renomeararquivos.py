@@ -11,5 +11,5 @@ for contagem in range(teste):
                         os.rename(nomeantigo,nomeatual)
                         print(os.listdir(pasta))
             except:
-                print('Ocorreu um Erro')
+                print('Ocorreu um Erro na execução')
 
